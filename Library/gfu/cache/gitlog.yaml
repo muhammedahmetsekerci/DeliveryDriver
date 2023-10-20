@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2022-12-22T01:45:32.208+03:00
+  initializedAtString: 2022-12-22T01:45:32.208+03:00
+  log:
+  - commitID: c882be0062a03c318639c5e9836db9d613d3b768
+    mergeA: 
+    mergeB: 
+    authorName: muhammedahmetsekerci
+    authorEmail: 96115180+muhammedahmetsekerci@users.noreply.github.com
+    commitEmail: 96115180+muhammedahmetsekerci@users.noreply.github.com
+    commitName: muhammedahmetsekerci
+    summary: Initial commit
+    description: 
+    timeString: 2022-12-14T11:18:32.000+03:00
+    commitTimeString: 2022-12-14T11:18:32.000+03:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\muham\Documents\Unity2DProjects\DeliveryDriver\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\muham\Documents\Unity2DProjects\DeliveryDriver\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\muham\Documents\Unity2DProjects\DeliveryDriver\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
