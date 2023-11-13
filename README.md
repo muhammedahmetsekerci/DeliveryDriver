@@ -3,4 +3,3 @@
 [PLAY NOW](https://play.unity.com/mg/other/treasure-driver)
 </br>[Gameplay Video](https://youtu.be/lX7-UaHIpi0)
 
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
